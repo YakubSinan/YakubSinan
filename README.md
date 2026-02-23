@@ -2,7 +2,7 @@
 
 I am a passionate developer interested in building modern and interactive applications. Currently, I'm diving deep into modern web development and scalable infrastructures to not only write code, but also understand how it is securely and efficiently operated.
 
-###  Connect with me:
+### Connect with me:
 <p align="left">
   <a href="linkedin.com/in/yakubsinancoskun/ target"="_blank">
     <img align="center" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
@@ -13,7 +13,7 @@ I am a passionate developer interested in building modern and interactive applic
   </a>
 </p>
 <br>
-###  Languages and Tools:
+## Languages and Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   &nbsp;
