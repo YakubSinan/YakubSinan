@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I am Yakub Sinan!
 
-<!--
-**YakubSinan/YakubSinan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate developer interested in building modern and interactive applications. Currently, I'm diving deep into modern web development and scalable infrastructures to not only write code, but also understand how it is securely and efficiently operated.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Connect with me:
+<p align="left">
+  <a href=linkedin.com/in/yakubsinancoskun/ target="_blank">
+    <img align="center" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>
+  &nbsp;
+  <a href=yakubcoskun5@gmail.com>
+    <img align="center" alt="Email" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" />
+  </a>
+</p>
+<br>
