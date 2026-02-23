@@ -13,7 +13,7 @@ I am a passionate developer interested in building modern and interactive applic
   </a>
 </p>
 <br>
-## Languages and Tools:
+ Languages and Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   &nbsp;
